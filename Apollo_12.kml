@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=moon">
+<Document>
+	<name>Apollo 12 Landing</name>
+	<LookAt>
+		<longitude>-23.46138376727904</longitude>
+		<latitude>-3.024139365484832</latitude>
+		<altitude>55.16999999891912</altitude>
+		<heading>-112.1842470470624</heading>
+		<tilt>30.08006766232498</tilt>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Placemark>
+		<name>2569 Placemark</name>
+		<visibility>0</visibility>
+		<Camera>
+			<gx:TimeStamp><when>2009-01-01T15:29:27Z</when>
+</gx:TimeStamp>
+			<longitude>-23.46138376727904</longitude>
+			<latitude>-3.024139365484832</latitude>
+			<altitude>55.16999999891912</altitude>
+			<heading>-112.1842470470624</heading>
+			<tilt>30.08006766232498</tilt>
+			<roll>5</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+	</Placemark>
+	<PhotoOverlay>
+		<name>Photo Overlay</name>
+		<visibility>0</visibility>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>://camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>C:/Users/ardavis2/Desktop/Swamp Works/Swamp Works/Images/img02569.png</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-17.47</bottomFov>
+			<topFov>17.47</topFov>
+			<near>19.1164</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>-23.46138376727905,-3.024139365484832,55.1699999954477</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<gx:Tour>
+		<name>Apollo 12 Landing</name>
+		<visibility>1</visibility>
+		<description>
+			The landing of Apollo 12 as seen from the camera from the port window of the lunar module &quot;Intrepid.&quot;
+		</description>
+		<gx:Playlist>
+
+			<!-- Frame 2497 -->
+			<gx:FlyTo> 
+				<gx:duration>2</gx:duration>
+				<Camera>
+					<longitude>-23.4614876774933</longitude>
+					<latitude>-3.024007607346267</latitude>
+					<altitude>55.16999999891912</altitude>
+					<heading>-100.0927899189167</heading>
+					<tilt>30.08084763077454</tilt>
+					<range>83.54470022123041</range>
+					<roll>5</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+			</gx:FlyTo>
+
+			<!-- Frame 2569 -->
+			<gx:FlyTo> 
+				<gx:duration>2</gx:duration>
+				<Camera>
+					<longitude>-23.46138376727904</longitude>
+					<latitude>-3.024139365484832</latitude>
+					<altitude>55.16999999891912</altitude>
+					<heading>-112.1842470470624</heading>
+					<tilt>30.08006766232498</tilt>
+					<roll>5</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+			</gx:FlyTo>
+		</gx:Playlist>
+	</gx:Tour>
+</Document>
+</kml>
