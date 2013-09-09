@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=moon">
+  <Folder>
+    <name>Apollo 12 Moon Landing</name>
+    <gx:Tour>
+      <name>Landing Tour</name>
+      <description>
+        <![CDATA[Andy's attempt at recreating the Apollo 12 Moon Landing within Google Earth]]>
+      </description>
+      <gx:Playlist>
+        <gx:FlyTo>
+          <gx:duration>1</gx:duration>
+          <Camera>
+            <longitude>-23.46138376727904</longitude>
+            <latitude>-3.024139365484832</latitude>
+            <altitude>55.16999999891912</altitude>
+            <tilt>30.08006766232498</tilt>
+            <roll>50</roll>
+            <heading>-112.1842470470624</heading>
+          </Camera>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1</gx:duration>
+          <Camera>
+            <longitude>-23.46138376727904</longitude>
+            <latitude>-3.024139365484832</latitude>
+            <altitude>55.16999999891912</altitude>
+            <tilt>30.08006766232498</tilt>
+            <roll>5</roll>
+            <heading>-112.1842470470624</heading>
+          </Camera>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1</gx:duration>
+          <Camera>
+            <longitude>-23.46138376727904</longitude>
+            <latitude>-3.024139365484832</latitude>
+            <altitude>55.16999999891912</altitude>
+            <tilt>30.08006766232498</tilt>
+            <roll>25</roll>
+            <heading>-112.1842470470624</heading>
+          </Camera>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1</gx:duration>
+          <Camera>
+            <longitude>-23.46138376727904</longitude>
+            <latitude>-3.024139365484832</latitude>
+            <altitude>55.16999999891912</altitude>
+            <tilt>30.08006766232498</tilt>
+            <roll>75</roll>
+            <heading>-112.1842470470624</heading>
+          </Camera>
+        </gx:FlyTo>
+      </gx:Playlist>
+    </gx:Tour>
+  </Folder>
+</kml>
