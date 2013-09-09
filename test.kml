@@ -17,6 +17,7 @@
             <tilt>30.08006766232498</tilt>
             <roll>50</roll>
             <heading>-112.1842470470624</heading>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
@@ -28,6 +29,7 @@
             <tilt>30.08006766232498</tilt>
             <roll>5</roll>
             <heading>-112.1842470470624</heading>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
@@ -39,6 +41,7 @@
             <tilt>30.08006766232498</tilt>
             <roll>25</roll>
             <heading>-112.1842470470624</heading>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
@@ -50,6 +53,7 @@
             <tilt>30.08006766232498</tilt>
             <roll>75</roll>
             <heading>-112.1842470470624</heading>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
       </gx:Playlist>

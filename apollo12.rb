@@ -46,7 +46,7 @@ frames = [
 ]
 
 frames.each do |frame|
-  camera = KML::Camera.new(latitude: frame[:lat], longitude: frame[:lng], altitude: frame[:alt], heading: frame[:head], tilt: frame[:tilt], roll: frame[:roll])
+  camera = KML::Camera.new(latitude: frame[:lat], longitude: frame[:lng], altitude: frame[:alt], heading: frame[:head], tilt: frame[:tilt], roll: frame[:roll], altitude_mode: 'relativeToSeaFloor')
   fly_to = KML::FlyTo.new(duration: 1, feature: camera)
 
   tour.features << fly_to
