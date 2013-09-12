@@ -2,12 +2,14 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=moon">
 <Document>
 	<name>Apollo 12 Landing</name>
+	<open>1</open>
 	<LookAt>
 		<longitude>-23.46138376727904</longitude>
 		<latitude>-3.024139365484832</latitude>
 		<altitude>55.16999999891912</altitude>
 		<heading>-112.1842470470624</heading>
 		<tilt>30.08006766232498</tilt>
+		<range>0</range>
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
 	<Placemark>
@@ -28,6 +30,15 @@
 	<PhotoOverlay>
 		<name>Photo Overlay</name>
 		<visibility>0</visibility>
+		<Camera>
+			<longitude>-23.46131905181121</longitude>
+			<latitude>-3.024085464052166</latitude>
+			<altitude>46.23999999969457</altitude>
+			<heading>-112.1842504646597</heading>
+			<tilt>30.07946551209529</tilt>
+			<roll>5.000019095029018</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -52,23 +63,18 @@
 			<rightFov>25</rightFov>
 			<bottomFov>-17.47</bottomFov>
 			<topFov>17.47</topFov>
-			<near>19.1164</near>
+			<near>0.741223</near>
 		</ViewVolume>
 		<Point>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			<coordinates>-23.46138376727905,-3.024139365484832,55.1699999954477</coordinates>
+			<coordinates>-23.46131905181121,-3.024085464052166,46.23999999969458</coordinates>
 		</Point>
 	</PhotoOverlay>
 	<gx:Tour>
 		<name>Apollo 12 Landing</name>
-		<visibility>1</visibility>
-		<description>
-			The landing of Apollo 12 as seen from the camera from the port window of the lunar module &quot;Intrepid.&quot;
-		</description>
+		<description>The landing of Apollo 12 as seen from the camera from the port window of the lunar module &quot;Intrepid.&quot;</description>
 		<gx:Playlist>
-
-			<!-- Frame 2497 -->
-			<gx:FlyTo> 
+			<gx:FlyTo>
 				<gx:duration>2</gx:duration>
 				<Camera>
 					<longitude>-23.4614876774933</longitude>
@@ -76,14 +82,12 @@
 					<altitude>55.16999999891912</altitude>
 					<heading>-100.0927899189167</heading>
 					<tilt>30.08084763077454</tilt>
-					<range>83.54470022123041</range>
 					<roll>5</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					<range>83.54470022123041</range>
 				</Camera>
 			</gx:FlyTo>
-
-			<!-- Frame 2569 -->
-			<gx:FlyTo> 
+			<gx:FlyTo>
 				<gx:duration>2</gx:duration>
 				<Camera>
 					<longitude>-23.46138376727904</longitude>
@@ -97,5 +101,176 @@
 			</gx:FlyTo>
 		</gx:Playlist>
 	</gx:Tour>
+	<PhotoOverlay>
+		<name>2497 Photo Overlay</name>
+		<visibility>0</visibility>
+		<Camera>
+			<longitude>-23.45999516859347</longitude>
+			<latitude>-3.023683398423461</latitude>
+			<altitude>76.14999999829701</altitude>
+			<heading>-103.0903283387494</heading>
+			<tilt>30.07946551209549</tilt>
+			<roll>-0.0002574838829761327</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>://camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>C:/Users/ardavis2/code/apollo_12_google_moon/Images/img02497.png</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-17.47</bottomFov>
+			<topFov>17.47</topFov>
+			<near>0.741223</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>-23.45999516859347,-3.023683398423462,76.14999999829701</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>2401 Photo Overlay</name>
+		<visibility>0</visibility>
+		<Camera>
+			<longitude>-23.45897630860662</longitude>
+			<latitude>-3.023148021498632</latitude>
+			<altitude>75.95999999778641</altitude>
+			<heading>-103.0903820518368</heading>
+			<tilt>30.07946551209553</tilt>
+			<roll>-0.0002574837513832173</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>://camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>C:/Users/ardavis2/code/apollo_12_google_moon/Images/img02401.png</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-17.47</bottomFov>
+			<topFov>17.47</topFov>
+			<near>0.741223</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>-23.45897630860662,-3.023148021498632,75.95999999778641</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>2305 Photo Overlay</name>
+		<visibility>0</visibility>
+		<Camera>
+			<longitude>-23.4578509720451</longitude>
+			<latitude>-3.022702344423728</latitude>
+			<altitude>111.6700000019759</altitude>
+			<heading>-96.02408944870221</heading>
+			<tilt>23.70023580534473</tilt>
+			<roll>-9.647180887894065e-005</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>://camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>C:/Users/ardavis2/code/apollo_12_google_moon/Images/img02305.png</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-17.47</bottomFov>
+			<topFov>17.47</topFov>
+			<near>0.741223</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>-23.4578509720451,-3.022702344423728,111.6700000019759</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>2185 Photo Overlay</name>
+		<Camera>
+			<longitude>-23.45645632038053</longitude>
+			<latitude>-3.023078698955677</latitude>
+			<altitude>114.0399999996633</altitude>
+			<heading>-83.34366260917356</heading>
+			<tilt>48.67037617323837</tilt>
+			<roll>0.0007580358050888678</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>://camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>C:/Users/ardavis2/code/apollo_12_google_moon/Images/img02185.png</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-17.47</bottomFov>
+			<topFov>17.47</topFov>
+			<near>0.741223</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>-23.45645632038053,-3.023078698955677,114.0399999996633</coordinates>
+		</Point>
+	</PhotoOverlay>
 </Document>
 </kml>

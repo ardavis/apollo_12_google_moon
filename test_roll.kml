@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=moon">
+<PhotoOverlay>
+	<name>2185 Photo Overlay</name>
+	<Camera>
+		<longitude>-23.45626357949241</longitude>
+		<latitude>-3.023268711527475</latitude>
+		<altitude>114.0799999998304</altitude>
+		<heading>-83.34367278204115</heading>
+		<tilt>48.67037617323833</tilt>
+		<roll>25</roll>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</Camera>
+	<Style>
+		<IconStyle>
+			<Icon>
+				<href>:/camera_mode.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+			<listItemType>check</listItemType>
+			<ItemIcon>
+				<state>open closed error fetching0 fetching1 fetching2</state>
+				<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+			</ItemIcon>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Icon>
+		<href>Images/img02185.png</href>
+	</Icon>
+	<ViewVolume>
+		<leftFov>-25</leftFov>
+		<rightFov>25</rightFov>
+		<bottomFov>-17.47</bottomFov>
+		<topFov>17.47</topFov>
+		<near>0.741223</near>
+	</ViewVolume>
+	<Point>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		<coordinates>-23.45626357949241,-3.023268711527475,114.0799999998304</coordinates>
+	</Point>
+</PhotoOverlay>
+</kml>
