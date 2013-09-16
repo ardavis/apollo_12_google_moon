@@ -5,89 +5,246 @@
     <Folder>
       <name>Placemarks Folder</name>
       <Placemark>
-        <name>Frame 2569</name>
+        <name>Frame 1849</name>
         <Camera>
-          <longitude>-23.461319052</longitude>
-          <latitude>-3.024085464</latitude>
-          <altitude>46.24</altitude>
-          <tilt>30.08</tilt>
-          <roll>0</roll>
-          <heading>-112.18</heading>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </Camera>
-      </Placemark>
-      <Placemark>
-        <name>Frame 2497</name>
-        <Camera>
-          <longitude>-23.459995169</longitude>
-          <latitude>-3.023683398</latitude>
-          <altitude>76.15</altitude>
-          <tilt>30.08</tilt>
-          <roll>0</roll>
-          <heading>256.91</heading>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </Camera>
-      </Placemark>
-      <Placemark>
-        <name>Frame 2401</name>
-        <Camera>
-          <longitude>-23.458976309</longitude>
-          <latitude>-3.023148021</latitude>
-          <altitude>75.96</altitude>
-          <tilt>30.08</tilt>
-          <roll>0</roll>
-          <heading>256.91</heading>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </Camera>
-      </Placemark>
-      <Placemark>
-        <name>Frame 2305</name>
-        <Camera>
-          <longitude>-23.457850972</longitude>
-          <latitude>-3.022702344</latitude>
-          <altitude>111.67</altitude>
-          <tilt>23.7</tilt>
-          <roll>0</roll>
-          <heading>263.98</heading>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </Camera>
-      </Placemark>
-      <Placemark>
-        <name>Frame 2185</name>
-        <Camera>
-          <longitude>-23.45554265</longitude>
-          <latitude>-3.023911418</latitude>
-          <altitude>110.52</altitude>
-          <tilt>57.57</tilt>
-          <roll>14.57</roll>
-          <heading>284.18</heading>
+          <longitude>-23.435975272</longitude>
+          <latitude>-3.030199454</latitude>
+          <altitude>157.18</altitude>
+          <tilt>60.81</tilt>
+          <roll>37.69</roll>
+          <heading>276.39</heading>
           <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
         </Camera>
       </Placemark>
       <Placemark>
         <name>Frame 1993</name>
         <Camera>
-          <longitude>-23.445872472</longitude>
-          <latitude>-3.02815433</latitude>
-          <altitude>183.33</altitude>
-          <tilt>57.57</tilt>
-          <roll>0</roll>
-          <heading>279.48</heading>
+          <longitude>-23.449699344</longitude>
+          <latitude>-3.029869044</latitude>
+          <altitude>110.86</altitude>
+          <tilt>58.17</tilt>
+          <roll>45.65</roll>
+          <heading>304.98</heading>
           <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
         </Camera>
       </Placemark>
       <Placemark>
-        <name>Frame 1849</name>
+        <name>Frame 2185</name>
         <Camera>
-          <longitude>-23.436106469</longitude>
-          <latitude>-3.03013381</latitude>
-          <altitude>144.86</altitude>
-          <tilt>63.48</tilt>
-          <roll>0</roll>
-          <heading>275.2</heading>
+          <longitude>-23.455781784</longitude>
+          <latitude>-3.024743586</latitude>
+          <altitude>105.01</altitude>
+          <tilt>56.71</tilt>
+          <roll>17.15</roll>
+          <heading>293.94</heading>
           <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
         </Camera>
       </Placemark>
+      <Placemark>
+        <name>Frame 2305</name>
+        <Camera>
+          <longitude>-23.457730169</longitude>
+          <latitude>-3.022876196</latitude>
+          <altitude>99.76</altitude>
+          <tilt>27.6</tilt>
+          <roll>4.53</roll>
+          <heading>271.28</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+      </Placemark>
+      <Placemark>
+        <name>Frame 2401</name>
+        <Camera>
+          <longitude>-23.458817459</longitude>
+          <latitude>-3.023936246</latitude>
+          <altitude>67.57</altitude>
+          <tilt>36.23</tilt>
+          <roll>28.43</roll>
+          <heading>288.18</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+      </Placemark>
+      <Placemark>
+        <name>Frame 2497</name>
+        <Camera>
+          <longitude>-23.46020546</longitude>
+          <latitude>-3.02402584</latitude>
+          <altitude>58.34</altitude>
+          <tilt>33.92</tilt>
+          <roll>14.64</roll>
+          <heading>273.17</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+      </Placemark>
+      <Placemark>
+        <name>Frame 2569</name>
+        <Camera>
+          <longitude>-23.461139708</longitude>
+          <latitude>-3.024591901</latitude>
+          <altitude>35.02</altitude>
+          <tilt>40.98</tilt>
+          <roll>35.93</roll>
+          <heading>281.62</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Photo Overlays Folder</name>
+      <PhotoOverlay>
+        <name>Frame 1849</name>
+        <Camera>
+          <longitude>-23.435975272</longitude>
+          <latitude>-3.030199454</latitude>
+          <altitude>157.18</altitude>
+          <tilt>60.81</tilt>
+          <roll>37.69</roll>
+          <heading>276.39</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img01849.png</href>
+        </Icon>
+      </PhotoOverlay>
+      <PhotoOverlay>
+        <name>Frame 1993</name>
+        <Camera>
+          <longitude>-23.449699344</longitude>
+          <latitude>-3.029869044</latitude>
+          <altitude>110.86</altitude>
+          <tilt>58.17</tilt>
+          <roll>45.65</roll>
+          <heading>304.98</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img01993.png</href>
+        </Icon>
+      </PhotoOverlay>
+      <PhotoOverlay>
+        <name>Frame 2185</name>
+        <Camera>
+          <longitude>-23.455781784</longitude>
+          <latitude>-3.024743586</latitude>
+          <altitude>105.01</altitude>
+          <tilt>56.71</tilt>
+          <roll>17.15</roll>
+          <heading>293.94</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img02185.png</href>
+        </Icon>
+      </PhotoOverlay>
+      <PhotoOverlay>
+        <name>Frame 2305</name>
+        <Camera>
+          <longitude>-23.457730169</longitude>
+          <latitude>-3.022876196</latitude>
+          <altitude>99.76</altitude>
+          <tilt>27.6</tilt>
+          <roll>4.53</roll>
+          <heading>271.28</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img02305.png</href>
+        </Icon>
+      </PhotoOverlay>
+      <PhotoOverlay>
+        <name>Frame 2401</name>
+        <Camera>
+          <longitude>-23.458817459</longitude>
+          <latitude>-3.023936246</latitude>
+          <altitude>67.57</altitude>
+          <tilt>36.23</tilt>
+          <roll>28.43</roll>
+          <heading>288.18</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img02401.png</href>
+        </Icon>
+      </PhotoOverlay>
+      <PhotoOverlay>
+        <name>Frame 2497</name>
+        <Camera>
+          <longitude>-23.46020546</longitude>
+          <latitude>-3.02402584</latitude>
+          <altitude>58.34</altitude>
+          <tilt>33.92</tilt>
+          <roll>14.64</roll>
+          <heading>273.17</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img02497.png</href>
+        </Icon>
+      </PhotoOverlay>
+      <PhotoOverlay>
+        <name>Frame 2569</name>
+        <Camera>
+          <longitude>-23.461139708</longitude>
+          <latitude>-3.024591901</latitude>
+          <altitude>35.02</altitude>
+          <tilt>40.98</tilt>
+          <roll>35.93</roll>
+          <heading>281.62</heading>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </Camera>
+        <Style id="">
+          <IconStyle>
+            <Icon>
+              <href>:/camera_mode.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Icon>
+          <href>Images/img02569.png</href>
+        </Icon>
+      </PhotoOverlay>
     </Folder>
     <gx:Tour>
       <name>Landing Tour</name>
@@ -97,85 +254,92 @@
       <gx:Playlist>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.461319052</longitude>
-            <latitude>-3.024085464</latitude>
-            <altitude>46.24</altitude>
-            <tilt>30.08</tilt>
-            <roll>0</roll>
-            <heading>-112.18</heading>
+            <longitude>-23.435975272</longitude>
+            <latitude>-3.030199454</latitude>
+            <altitude>157.18</altitude>
+            <tilt>60.81</tilt>
+            <roll>37.69</roll>
+            <heading>276.39</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.459995169</longitude>
-            <latitude>-3.023683398</latitude>
-            <altitude>76.15</altitude>
-            <tilt>30.08</tilt>
-            <roll>0</roll>
-            <heading>256.91</heading>
+            <longitude>-23.449699344</longitude>
+            <latitude>-3.029869044</latitude>
+            <altitude>110.86</altitude>
+            <tilt>58.17</tilt>
+            <roll>45.65</roll>
+            <heading>304.98</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.458976309</longitude>
-            <latitude>-3.023148021</latitude>
-            <altitude>75.96</altitude>
-            <tilt>30.08</tilt>
-            <roll>0</roll>
-            <heading>256.91</heading>
+            <longitude>-23.455781784</longitude>
+            <latitude>-3.024743586</latitude>
+            <altitude>105.01</altitude>
+            <tilt>56.71</tilt>
+            <roll>17.15</roll>
+            <heading>293.94</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.457850972</longitude>
-            <latitude>-3.022702344</latitude>
-            <altitude>111.67</altitude>
-            <tilt>23.7</tilt>
-            <roll>0</roll>
-            <heading>263.98</heading>
+            <longitude>-23.457730169</longitude>
+            <latitude>-3.022876196</latitude>
+            <altitude>99.76</altitude>
+            <tilt>27.6</tilt>
+            <roll>4.53</roll>
+            <heading>271.28</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.45554265</longitude>
-            <latitude>-3.023911418</latitude>
-            <altitude>110.52</altitude>
-            <tilt>57.57</tilt>
-            <roll>14.57</roll>
-            <heading>284.18</heading>
+            <longitude>-23.458817459</longitude>
+            <latitude>-3.023936246</latitude>
+            <altitude>67.57</altitude>
+            <tilt>36.23</tilt>
+            <roll>28.43</roll>
+            <heading>288.18</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.445872472</longitude>
-            <latitude>-3.02815433</latitude>
-            <altitude>183.33</altitude>
-            <tilt>57.57</tilt>
-            <roll>0</roll>
-            <heading>279.48</heading>
+            <longitude>-23.46020546</longitude>
+            <latitude>-3.02402584</latitude>
+            <altitude>58.34</altitude>
+            <tilt>33.92</tilt>
+            <roll>14.64</roll>
+            <heading>273.17</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
         <gx:FlyTo>
           <gx:duration>2</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
           <Camera>
-            <longitude>-23.436106469</longitude>
-            <latitude>-3.03013381</latitude>
-            <altitude>144.86</altitude>
-            <tilt>63.48</tilt>
-            <roll>0</roll>
-            <heading>275.2</heading>
+            <longitude>-23.461139708</longitude>
+            <latitude>-3.024591901</latitude>
+            <altitude>35.02</altitude>
+            <tilt>40.98</tilt>
+            <roll>35.93</roll>
+            <heading>281.62</heading>
             <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
           </Camera>
         </gx:FlyTo>
