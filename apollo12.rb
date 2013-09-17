@@ -10,7 +10,7 @@ photo_overlays_folder = KML::Folder.new(name: 'Photo Overlays Folder')
 tour = KML::Tour.new(name: 'Landing Tour', description: "Andy's attempt at recreating the Apollo 12 Moon Landing within Google Earth")
 
 frames = [
-  # Frame,       Lat           Lng       Alt     Heading  Tilt    Roll
+  # Frame,       Lat         Lng       Alt     Heading   Tilt  Roll
   [2785, -3.024793921, -23.462411298, 14.96,   292.44,  43.89, 28.36],
   [2761, -3.024808710, -23.462401341, 15.80,   295.36,  44.04, 28.36],
   [2737, -3.024804113, -23.462370680, 17.07,   293.40,  43.10, 30.24],
@@ -72,4 +72,4 @@ document.features << tour
 kml.objects << document
 puts kml.render
 
-kml.save('test.kml')
+kml.save('apollo_12.kml')
